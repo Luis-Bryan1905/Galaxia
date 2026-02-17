@@ -1,0 +1,22 @@
+POWER LEVELS:
+
+LEVEL 1 / DEFAULT:
+Lazer Speed - 675
+Shooting Cooldown - 1.0
+
+
+LEVEL 2:
+Lazer Speed - 750
+Shooting Cooldown - 0.75
+
+LEVEL 3:
+Lazer Speed - 900
+Shooting Cooldown - 0.5
+
+LEVEL 4:
+Lazer Speed - 1050
+Shooting Cooldown - 0.25
+
+MAX LEVEL:
+Lazer Speed - 1200
+Shooting Cooldown - 0.1
