@@ -4,6 +4,9 @@
   <img src="https://github.com/user-attachments/assets/803e61ac-8eab-4fb3-b02c-053fab814ef3" alt="IMAGE ALT TEXT HERE" width="840" height="1079" border="10" />
 </a>
 
+https://www.youtube.com/watch?v=JL1GHjewhrU
+
+
 Galaxia is a 2D sidecrolling shooter inspired by classic arcade games like Galaga and Gradius developed through late 2024 to early 2025 in the Unity engine as the main and final project created for my university course's 2D Game Development module.
 
 Author: Luis Bryan
